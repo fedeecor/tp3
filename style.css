@@ -13,6 +13,7 @@ body {
 h1{
     font-weight: bold;
     background-color: #a7cab5;
+    text-align: center;
 }
 table {
     width: 95%;
@@ -24,5 +25,9 @@ table {
     display: flex;
     gap: 2%; 
     margin-left: 5%;
+    flex-wrap: wrap;
 }
+
+
+
 
