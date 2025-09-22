@@ -20,3 +20,9 @@ table {
     margin-right: auto;
     text-align: center;
 }
+.contenedor-cards {
+    display: flex;
+    gap: 2%; 
+    margin-left: 5%;
+}
+
