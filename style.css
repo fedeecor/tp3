@@ -1,3 +1,22 @@
-.carousel-caption {
+body {
+    background-color: #a7cab5;
+    background-image: url(imagenes/logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 200px;
+    background-position: top right;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
     color: black;
+}
+h1{
+    font-weight: bold;
+    background-color: #a7cab5;
+}
+table {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
